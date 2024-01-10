@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfq++gLScEvK8tkICZctoFXTRlQnasR7a0PVyu1MuZ36KSLqvSYAC9CB3YYUuCIKLukb7C9b0UIm8JTK6Ty0Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Calendar\\Calendar\\Calendar.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
